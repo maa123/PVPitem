@@ -1,0 +1,13 @@
+name: PVPitem
+main: PVPitem\PVPitem
+author: maa123
+version: 1.0
+api: [1.8.0]
+load: POSTWORLD
+description: itemforPVP
+website: http://maa123.official.jp
+commands:
+ getpos:
+  description: getpos
+  usage: /getpos
+  permission: op
